@@ -7,9 +7,9 @@
 
 ## Latest Finds
 
+- [PostGIS spatial joins, translated to DuckDB](https://www.geomermaids.com/cookbook/duckdb-spatial/): Tips for optimizing DuckDB Spatial queries, compared with PostGIS. From [[SQL]].
 - [Stop using satellite LST to quantify heat hazard (LinkedIn post)](https://www.linkedin.com/feed/update/urn:li:activity:7478690057026207745/): Why satellite land surface temperature misrepresents extreme heat. From [[Remote_Sensing]].
 - [Groundsource: A Dataset of Flood Events from News](https://zenodo.org/records/18647054): An open global dataset of about 2.6 million flood events from news articles. From [[Climate_Change]].
-- [agribound](https://github.com/montimaj/agribound): A Python package for mapping field boundaries from satellite imagery. From [[Agriculture]].
 
 ## Topics
 
@@ -26,3 +26,4 @@
 - [[Deep_Learning]]: Neural network models, including segmentation and geospatial foundation models.
 - [[Embeddings]]: Vector embeddings, including Earth observation embeddings.
 - [[Python]]: Python packages, libraries and tools.
+- [[SQL]]: SQL databases and query engines, including spatial SQL in PostGIS and DuckDB.
